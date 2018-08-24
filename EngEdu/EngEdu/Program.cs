@@ -12,7 +12,8 @@ namespace EngEdu
         {
             Console.WriteLine("Year2561 semster 1, T am  Enfedu feshman");
             Console.WriteLine("Year2561 semster 2, T am  I learn to Program in C sharp.");
-
+            Console.WriteLine("hello compute");
+            
         }
     }
 }
